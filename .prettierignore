@@ -1,0 +1,5 @@
+dist/
+test-reports/
+documentation/
+compodoc/
+typedoc/

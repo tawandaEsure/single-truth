@@ -1,0 +1,6 @@
+# Ignore these folders
+dist
+typedoc
+compodoc
+documentation
+test-reports
